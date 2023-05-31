@@ -1,0 +1,39 @@
+.homepage {
+}
+.homepageButtons {
+}
+.welcome {
+  color: #ffffffb0;
+  padding-bottom: 50px;
+}
+.title {
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 100px;
+}
+.titleLogged {
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+}
+.loginButton {
+  margin-right: 20px;
+  width: 100px;
+  height: 40px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: aliceblue;
+  cursor: pointer;
+  font-weight: bold;
+}
+.registerButton {
+  margin-right: 20px;
+  width: 100px;
+  height: 40px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: aliceblue;
+  cursor: pointer;
+  font-weight: bold;
+}
